@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Ana Beatriz 👋
 
-<!--
-**BiaaSilvaa/BiaaSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+💻 Software Development | Backend | Web Development  
+🤖 Interested in Artificial Intelligence and Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Computer Engineering student passionate about technology and software development.
+
+I'm currently developing my skills through academic projects, personal projects, and practical experiences.
+
+### 💡 Currently working and learning about
+
+- Backend Development
+- Web Development
+- Databases
+- Artificial Intelligence
+- Software Development
+
+### 🩺 Experience
+
+**PET-Saúde Digital — UCDB**
+
+Participating in a multidisciplinary project focused on technology and digital health, contributing to the development of digital solutions and project activities.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+- C
+- C++
+- Python
+- Java
+- PHP
+
+### Development
+
+- Backend Development
+- Frontend Development
+- Web Development
+- Databases
+
+---
+
+## 🚀 Projects
+
+My repositories contain academic, personal, and practical projects developed throughout my journey in Computer Engineering.
+
+More projects coming soon. 👀
+
+---
+
+## 📫 Connect with me
+
+- 💼 [LinkedIn](www.linkedin.com/in/anabeatriz-as)
+- 💻 [GitHub](https://github.com/BiaaSilvaa)
