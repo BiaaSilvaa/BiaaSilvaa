@@ -52,10 +52,3 @@ Participating in a multidisciplinary project focused on technology and digital h
 My repositories contain academic, personal, and practical projects developed throughout my journey in Computer Engineering.
 
 More projects coming soon. 👀
-
----
-
-## 📫 Connect with me
-
-- 💼 [LinkedIn](www.linkedin.com/in/anabeatriz-as)
-- 💻 [GitHub](https://github.com/BiaaSilvaa)
